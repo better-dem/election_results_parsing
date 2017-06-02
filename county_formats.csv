@@ -1,0 +1,170 @@
+Apache,Contest ID,1,4
+Apache,Choice ID,5,7
+Apache,Precinct ID (Election),8,11
+Apache,Vote Total,12,17
+Apache,Polling Place Votes,18,23
+Apache,Early Votes,24,29
+Apache,Provisional Votes,30,35
+Apache,Polling Place Votes DS200,36,41
+Apache,Early Votes DS200,42,47
+Apache,(Unused),48,101
+Apache,Party Name,102,104
+Apache,(Unused),105,111
+Apache,Contest Name,112,167
+Apache,Choice Name,168,205
+Apache,Precinct Designation (Permanent),206,207
+Apache,Precinct Name,208,234
+Apache,SubJurisidction,235,260
+Apache,Votes Allowed,261,262
+Apache,Referendum Flag,263,264
+Cochise,Contest ID,1,4
+Cochise,Choice ID,5,7
+Cochise,Precinct ID,8,11
+Cochise,Vote Total,12,17
+Cochise,Early Votes,18,23
+Cochise,Polling Place Votes,24,29
+Cochise,Provisional Votes,30,35
+Cochise,(Unused),36,101
+Cochise,Party Name,102,104
+Cochise,(Unused),105,111
+Cochise,Contest Name,112,167
+Cochise,Choice Name,168,205
+Cochise,Precinct Designation (Permanent),206,207
+Cochise,Precinct Name,208,235
+Cochise,SubJurisidction,236,260
+Cochise,Votes Allowed,261,262
+Cochise,Referendum Flag,263,264
+Gila,Contest ID,1,4
+Gila,Choice ID,5,7
+Gila,Precinct ID,8,11
+Gila,Vote Total,12,17
+Gila,Early Votes,18,23
+Gila,Polling Place Votes,24,29
+Gila,Provisional Votes,30,35
+Gila,(Unused),36,101
+Gila,Party Name,102,104
+GIla,(Unused),105,111
+Gila,Contest Name,112,167
+Gila,Choice Name,168,205
+Gila,Precinct Name,206,235
+Gila,(Unused),236,260
+Gila,Votes Allowed,261,262
+Gila,Referendum Flag,263,264
+Graham,Contest ID,1,4
+Graham,Choice ID,5,7
+Graham,Precinct ID,8,11
+Graham,Vote Total,12,17
+Graham,Polling Place Votes,18,23
+Graham,Early Votes,24,29
+Graham,Provisional Votes,30,35
+Graham,(Unused),36,101
+Graham,Party Name,102,104
+Graham,(Unused),105,111
+Graham,Contest Name,112,167
+Graham,Choice Name,168,205
+Graham,Precinct Name,206,235
+Graham,(Unused),236,260
+Graham,Votes Allowed,261,262
+Graham,Referendum Flag,263,264
+Greenlee,Contest ID,1,4
+Greenlee,Choice ID,5,7
+Greenlee,Precinct ID,8,11
+Greenlee,Vote Total,12,17
+Greenlee,Polling Place Votes,18,23
+Greenlee,Early Votes,24,29
+Greenlee,Provisional Votes,30,35
+Greenlee,(Unused),36,101
+Greenlee,Party Name,102,104
+Greenlee,(Unused),105,111
+Greenlee,Contest Name,112,167
+Greenlee,Choice Name,168,205
+Greenlee,Precinct Name,206,235
+Greenlee,(Unused),236,260
+Greenlee,Votes Allowed,261,262
+Greenlee,Referendum Flag,263,264
+Mohave,Contest ID,1,4
+Mohave,Choice ID,5,7
+Mohave,Precinct ID,8,11
+Mohave,Vote Total,12,17
+Mohave,Polling Place Votes,18,23
+Mohave,Early Votes,24,29
+Mohave,Provisional Votes,30,35
+Mohave,(Unused),36,101
+Mohave,Party Name,102,104
+Mohave,(Unused),105,111
+Mohave,Contest Name,112,167
+Mohave,Choice Name,168,205
+Mohave,Precinct Name,206,235
+Mohave,(Unused),236,260
+Mohave,Votes Allowed,261,262
+Mohave,Referendum Flag,263,264
+Navajo,Contest ID,1,4
+Navajo,Choice ID,5,7
+Navajo,Precinct ID,8,11
+Navajo,Vote Total,12,17
+Navajo,Polling Place Votes,18,23
+Navajo,Early Votes,24,29
+Navajo,Late Early Votes,30,35
+Navajo,Provisional Votes,36,41
+Navajo,Conditional Provisional Votes,42,47
+Navajo,(Unused),48,101
+Navajo,Party Name,102,104
+Navajo,(Unused),105,111
+Navajo,Contest Name,112,167
+Navajo,Choice Name,168,205
+Navajo,Precinct Name,206,235
+Navajo,(Unused),236,260
+Navajo,Votes Allowed,261,262
+Navajo,Referendum Flag,263,264
+Pima,Contest ID,1,4
+Pima,Choice ID,5,7
+Pima,Precinct ID,8,11
+Pima,Vote Total,12,17
+Pima,Early Votes,18,23
+Pima,Polling Place Votes,24,29
+Pima,Provisional Votes,30,35
+Pima,(Unused),36,101
+Pima,Party Name,102,104
+Pima,(Unused),105,111
+Pima,Contest Name,112,167
+Pima,Choice Name,168,205
+Pima,Precinct Name,206,235
+Pima,(Unused),236,260
+Pima,Votes Allowed,261,262
+Pima,Referendum Flag,263,264
+Pinal,Contest ID,1,4
+Pinal,Choice ID,5,7
+Pinal,Precinct ID,8,11
+Pinal,Vote Total,12,17
+Pinal,Early Votes,18,23
+Pinal,Polling Place Votes,24,29
+Pinal,Late Early Votes,30,35
+Pinal,Provisional Votes,36,41
+Pinal,(Unused),42,101
+Pinal,Party Name,102,104
+Pinal,(Unused),105,111
+Pinal,Contest Name,112,167
+Pinal,Choice Name,168,205
+Pinal,Precinct Desingation (Election),206,207
+Pinal,Precinct Name,208,235
+Pinal,(Unused),236,260
+Pinal,Votes Allowed,261,262
+Pinal,Referendum Flag,263,264
+Santa Cruz,Contest ID,1,4
+Santa Cruz,Choice ID,5,7
+Santa Cruz,Precinct ID,8,11
+Santa Cruz,Vote Total,12,17
+Santa Cruz,Polling Place Votes,18,23
+Santa Cruz,Early Votes,24,29
+Santa Cruz,Provisional Votes,30,35
+Santa Cruz,Polling Place Votes DS200,36,41
+Santa Cruz,Early Votes DS200,42,47
+Santa Cruz,(Unused),48,101
+Santa Cruz,Party Name,102,104
+Santa Cruz,(Unused),105,111
+Santa Cruz,Contest Name,112,167
+Santa Cruz,Choice Name,168,205
+Santa Cruz,Precinct Name,206,235
+Santa Cruz,(Unused),236,260
+Santa Cruz,Votes Allowed,261,262
+Santa Cruz,Referendum Flag,263,264
